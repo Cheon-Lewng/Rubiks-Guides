@@ -7,7 +7,7 @@ config:
 flowchart TB
     Start((("Bring both pieces to the Up layer"))) --> A{{"Are the pieces connected"}}
     A -- Yes --> B{{"Is the edge to the left or right of the corner?"}}
-    B -- Left --> T@{ img: "./edge_left.png", w: 30 }
+    B -- Left --> T@{ img: "https://github.com/Cheon-Lewng/Rubiks-Guides/blob/main/assets/images/edge_left.png", w: 30 }
     T --> D@{ label: "Separate the pieces using **U F' U F**" }
     B -- Right --> U@{ label: "<img src=\"./edge_left.jpg\" width=\"30\">" }
     U --> E@{ label: "Separate the pieces using **U' R U' R'**" }
