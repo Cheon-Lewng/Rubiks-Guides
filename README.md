@@ -45,7 +45,7 @@ Once you’ve mastered the beginner’s way, you might be ready for **CFOP** —
 
 We’ll be adding a full CFOP guide soon, complete with friendly explanations, muscle memory tricks, and cool algorithms to speed up your solves.
 
-➡️ [Placeholder for CFOP](./cfop-method/) _(Coming soon!)_
+➡️ [Placeholder for CFOP](./cfop-method/f2l_flowchart.md) _(Coming soon!)_
 
 ---
 
