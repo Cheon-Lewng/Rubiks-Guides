@@ -6,10 +6,10 @@ You're about to enter the world of **speedcubing** — where cubes are solved fa
 
 The **CFOP Method** is a super cool way to solve the Rubik’s Cube like the pros do. It has four magical steps:
 
-- **C**ross  
-- **F**irst Two Layers  
-- **O**rient the Last Layer  
-- **P**ermute the Last Layer  
+- **C**ross
+- **F**irst Two Layers
+- **O**rient the Last Layer
+- **P**ermute the Last Layer
 
 Sounds fancy, right? Don’t worry, we’ll break it down into bite-sized, super simple stories just like before! 📖✨
 

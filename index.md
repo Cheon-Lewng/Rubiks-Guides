@@ -89,7 +89,7 @@ Already know how to solve the cube? Ready to go faster? 🏎️
 
 The CFOP method is a super-speedy technique used by pros. It’s a little trickier, but once you’ve mastered the beginner’s way, this is your next big leap.
 
-[Explore CFOP Method →](#cfop-method) (coming soon)
+[Explore CFOP Method →](./cfop-method/f2l_flowchart.md) (coming soon)
 
 ---
 

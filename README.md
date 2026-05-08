@@ -6,7 +6,7 @@ This site is your go-to guide for learning how to solve the Rubik’s Cube — w
 
 Our tutorials are written in **ELI5 (Explain Like I'm 5)** language, using **fun stories** and **colorful explanations** to make learning feel like playtime. It’s like storytime… but with a cube! 📚🧩
 
-🌐 **Visit the Guides Here**:  
+🌐 **Visit the Guides Here**:
 👉 [Rubiks-Guides](https://cheon-lewng.github.io/Rubiks-Guides/)
 
 ---
@@ -21,7 +21,7 @@ No matter your age, background, or cube skills — **you can solve the cube**, a
 
 ## 🧭 What’s Inside This Guide?
 
-### 🧱 Cube Basics  
+### 🧱 Cube Basics
 Before we solve the cube, let’s meet it! Learn all about:
 - The pieces that make up the cube
 - What those face names mean (what’s an “R”?)
@@ -31,7 +31,7 @@ Before we solve the cube, let’s meet it! Learn all about:
 
 ---
 
-### 🌼 Beginner’s Method  
+### 🌼 Beginner’s Method
 This is our **first full adventure** — a gentle step-by-step way to solve the Rubik’s Cube for the very first time. Each step has a fun name and its own mini-story to help you remember what to do.
 
 You’ll go from making a daisy, to building a cross, to solving the whole cube — one layer at a time. 🌈
@@ -40,7 +40,7 @@ You’ll go from making a daisy, to building a cross, to solving the whole cube 
 
 ---
 
-### ⚡ Coming Soon: CFOP Method  
+### ⚡ Coming Soon: CFOP Method
 Once you’ve mastered the beginner’s way, you might be ready for **CFOP** — a faster method used by speedcubers all over the world! 🏁
 
 We’ll be adding a full CFOP guide soon, complete with friendly explanations, muscle memory tricks, and cool algorithms to speed up your solves.

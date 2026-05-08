@@ -8,10 +8,10 @@ Before we learn how to solve the cube, we need to get to know it — kind of lik
 
 ## 📖 What You’ll Learn
 
-### 🧩 Cube Anatomy  
+### 🧩 Cube Anatomy
 Ever wonder what makes the cube tick? We’ll take a peek inside and see what pieces live where — from the quiet centers to the corner explorers.
 
-### 🔤 Cube Notation & Face Names  
+### 🔤 Cube Notation & Face Names
 The cube has its own secret language made of letters like **R**, **U**, and **F**. Don’t worry, we’ll explain everything like a treasure map with simple moves and fun directions.
 
 ---
