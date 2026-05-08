@@ -23,8 +23,8 @@ We’re going to help those lightning bugs find their way by using a special spe
 
 The magic goes like this:
 
-⟳ `F`  
-⬆️ `R` ⬅️ `U` ⬇️ `R'` ➡️ `U'`  
+⟳ `F`<br>
+⬆️ `R` ⬅️ `U` ⬇️ `R'` ➡️ `U'`<br>
 ⟲ `F'`
 
 (That’s just a fancy way of saying: **Front, Super Move, Front Prime**)
@@ -41,7 +41,7 @@ So we called upon a little spell to help them out.
 
 First, we gently **opened the front door** of the cube. (*F*)
 
-Then, we did the **right side’s favorite dance**, the “super move,” to shake things up and get the bugs moving.  
+Then, we did the **right side’s favorite dance**, the “super move,” to shake things up and get the bugs moving.<br>
 (*R U R' U'*)
 
 After the dance, we carefully **closed the front door again** so everything stayed neat and tidy. (*F'*)
@@ -71,6 +71,6 @@ You did it! The lightning bugs are all glowing, and the top of your cube is shin
 
 🌟 _“Shiny! A bright yellow cross has appeared on top — you’re lighting up the sky of your cube!”**_**
 
-**🔜 Next up: Positioning the Yellow Corners!**
-⬅️ [**Step 4: Solve the Second Layer**](04_second_layer.md) | [**Step 6: Solve the Yellow Edges**](06_solve_edges.md) ➡️
-**🔝 Return to [Guide Overview](index.md)**
+**🔜 Next up: Positioning the Yellow Corners!**<br>
+⬅️ [**Step 4: Solve the Second Layer**](04_second_layer.md) | [**Step 6: Solve the Yellow Edges**](06_solve_edges.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)

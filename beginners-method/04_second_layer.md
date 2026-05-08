@@ -56,6 +56,6 @@ You've just completed the second story of your cube castle! The white floor and 
 
 ### 🏠 _“Awesome! Your cube’s middle floor is now neat and colorful — just like a cozy little house!”_
 
-**🔜 Next up: Positioning the Yellow Corners!**
-⬅️ [**Step 3: Solve the First Layer Corners**](03_first_layer.md) | [**Step 5: Make the Yellow Cross**](05_yellow_cross.md) ➡️
-**🔝 Return to [Guide Overview](index.md)**
+**🔜 Next up: Positioning the Yellow Corners!**<br>
+⬅️ [**Step 3: Solve the First Layer Corners**](03_first_layer.md) | [**Step 5: Make the Yellow Cross**](05_yellow_cross.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)

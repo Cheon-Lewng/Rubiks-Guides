@@ -28,22 +28,22 @@ ___
 
 White petals love to play hide-and-seek! Let’s find them and help them reach the top. Here’s how they like to hide — from easiest to trickiest:
 
-### 🌟 Best Place: On Top Already  
+### 🌟 Best Place: On Top Already
 If a white petal is already on the top face next to the yellow center — yay! It's already part of the daisy. No moving needed.
 
-### 👍 Second Best: In the Middle of a Side  
+### 👍 Second Best: In the Middle of a Side
 If the white petal is in the **middle row of any side**, just turn that face **upward** to pop it onto the daisy!
 
 It’s like giving the petal a little elevator ride to its sunny spot. ☀️🌼
 
-### 😅 Third Best: On the Bottom  
+### 😅 Third Best: On the Bottom
 If the white petal is on the **very bottom** of the cube, it needs a super bounce:
 1. Turn the bottom layer until the petal is under an empty daisy spot.
 2. Then turn that face **twice** (180°) to flip it straight up.
 
 Boing! Just like a trampoline launch! 🦘⬆️⬆️
 
-### 🙈 Tricky Ones: On the Face but in the Top or Bottom Row  
+### 🙈 Tricky Ones: On the Face but in the Top or Bottom Row
 These petals are a little confused — they’re on the **face** of the cube, but not in the middle row. Their white side is facing you, and they’re in either the **top** or **bottom** row of that face.
 
 Here’s a little gardening trick:
@@ -70,6 +70,6 @@ Look at the yellow center on top. Do you see four white petals around it? If yes
 
 ### 🌼 _“Hooray! Your daisy is blooming and ready to become a beautiful white cross!”_
 
-**🔜 Next up: Turning the Daisy Into a White Cross!**
-[**Next: Step 2 - Solve the White Cross**](02_cross.md) ➡️
-**🔝 Return to [Guide Overview](index.md)**
+**🔜 Next up: Turning the Daisy Into a White Cross!**<br>
+[**Next: Step 2 - Solve the White Cross**](02_cross.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)

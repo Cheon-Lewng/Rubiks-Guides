@@ -7,7 +7,7 @@ This site is your go-to guide for learning how to solve the Rubik’s Cube — w
 Our tutorials are written in **ELI5 (Explain Like I'm 5)** language, using **fun stories** and **colorful explanations** to make learning feel like playtime. It’s like storytime… but with a cube! 📚🧩
 
 🌐 **Visit the Guides Here**:
-👉 [Rubiks-Guides](https://cheon-lewng.github.io/Rubiks-Guides/)
+👉 [Rubik's Guides](https://cheon-lewng.github.io/Rubiks-Guides/)
 
 ---
 

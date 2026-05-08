@@ -33,7 +33,7 @@ First, he gently takes a pair out of the **front-right** of the cube with ⬆️
 
 It sounds like magic, but here’s the full spell:
 
-**Sune Algorithm**  
+**Sune Algorithm**<br>
 ⬆️ `R` ⬅ `U` ⬇ `R'` ⬅ `U` ⬆ `R` ⬅⬅ `U2` ⬇`R'`
 
 Sometimes you’ll need to do this spell **once**, sometimes **twice** — just like tapping a wand until the sparkles settle. When you're done, all the yellow edge pieces will be in their perfect places, hugging their matching centers.
@@ -42,6 +42,6 @@ Sometimes you’ll need to do this spell **once**, sometimes **twice** — just 
 
 🧙‍♂️ *"Poof! With a little magic, all the yellow edge pieces are home — your cross is now truly complete!"*
 
-🔜 Next up: Positioning the Yellow Corners!  
-⬅️ [**Step 5: Make the Yellow Cross**](05_yellow_cross.md) | [**Next: Step 7 - Move the Yellow Corners**](07_move_corners.md)  ➡️
-**🔝 Return to [Guide Overview](index.md)**
+🔜 **Next up: Positioning the Yellow Corners!**<br>
+⬅️ [**Step 5: Make the Yellow Cross**](05_yellow_cross.md) | [**Next: Step 7 - Move the Yellow Corners**](07_move_corners.md)  ➡️<br>
+🔝 Return to [Guide Overview](index.md)

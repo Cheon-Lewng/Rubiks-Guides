@@ -64,6 +64,6 @@ Once all four white corners are in place, the entire white face will be smiling 
 
 ### 🧩 _“Nice work! All the white corners are tucked in — you’ve built a strong, happy first floor!”_
 
-**🔜 Next up: Solving the Second Layer!**
-⬅️ [**Back to Step 2 - Solve the White Cross**](02_cross.md) | [**Next: Step 4 - Solve the Second Layer**](04_second_layer.md) ➡️
-**🔝 Return to [Guide Overview](index.md)**/
+**🔜 Next up: Solving the Second Layer!**<br>
+⬅️ [**Back to Step 2 - Solve the White Cross**](02_cross.md) | [**Next: Step 4 - Solve the Second Layer**](04_second_layer.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)

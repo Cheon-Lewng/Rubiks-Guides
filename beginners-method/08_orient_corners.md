@@ -57,13 +57,13 @@ Repeat the same Super Move dance until that corner is solved too.
 
 ### 🎊 You Did It!
 
-☀️ *The sun is shining, the yellow face is smiling, and all the corners are standing tall!*  
+☀️ *The sun is shining, the yellow face is smiling, and all the corners are standing tall!*<br>
 You’ve finished the very last twisty-turny part of the puzzle.
 
 ---
 
 🎉 _“You did it! All the colors are happy in their homes — your cube is completely solved!”_
 
-⬅️ **[Back: Step 7 – Move the Yellow Corners](07_move_corners.md)** | [**Next Steps**](Next%20Steps.md) ➡️
-🏁 **You did it! The cube is solved!**
-**🔝 Return to [Guide Overview](index.md)**
+🏁 **You did it! The cube is solved!**<br>
+⬅️ **[Back: Step 7 – Move the Yellow Corners](07_move_corners.md)** | [**Next Steps**](Next%20Steps.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)

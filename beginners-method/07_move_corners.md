@@ -55,6 +55,6 @@ After the Niklas move, take a look:
 
 🎭 _“Ta-da! The yellow corners have found their spots — your cube is ready for its final twist!”_
 
-🔜 **Next up: Orient the Yellow Corners!**
-⬅️ **[Back: Step 6 – Solve the Yellow Edges](06_solve_edges.md)** | **[Next: Step 8 – Orient the Yellow Corners](08_orient_corners.md)**  ➡️
-**🔝 Return to [Guide Overview](index.md)**
+🔜 **Next up: Orient the Yellow Corners!**<br>
+⬅️ **[Back: Step 6 – Solve the Yellow Edges](06_solve_edges.md)** | **[Next: Step 8 – Orient the Yellow Corners](08_orient_corners.md)**  ➡️<br>
+🔝 Return to [Guide Overview](index.md)

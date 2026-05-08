@@ -60,7 +60,7 @@ h3 {
 
 header {
   background-color: var(--header-bg);
-  padding: 1rem;
+  padding: 0.6rem 1rem;
   text-align: center;
 
   /* Sticky behavior */
@@ -72,12 +72,21 @@ header {
   transition: padding 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Tighten header title spacing */
+header h1 {
+  margin: 0.25rem 0 0.4rem;
+}
+
 /* Site title */
 header h1 a {
   text-decoration: none;
   color: var(--text-color);
   margin: 0;
   transition: font-size 0.3s ease;
+  -webkit-transition: font-size 0.3s ease;
+  -moz-transition: font-size 0.3s ease;
+  -ms-transition: font-size 0.3s ease;
+  -o-transition: font-size 0.3s ease;
 }
 
 /* Mobile hamburger toggle */
@@ -150,6 +159,7 @@ header.shrunk {
 
 header.shrunk h1 {
   font-size: 1.3rem;
+  margin: 0.15rem 0 0.25rem;
 }
 
 header.shrunk .navbar-links {

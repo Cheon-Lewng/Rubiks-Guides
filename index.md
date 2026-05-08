@@ -31,7 +31,7 @@ Think of it like a storybook—each chapter brings you closer to becoming a cube
 Before we dive into solving, let’s meet the cube and learn its favorite moves!
 
 [Jump into Cube Basics →](./cube-basics/index.md)
-<a id="cube-anatomyy"></a>
+<a id="cube-anatomy"></a>
 ### 🦴 Cube Anatomy
 
 Your cube is made of **26 little puzzle pieces**:

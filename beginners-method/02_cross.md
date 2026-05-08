@@ -32,6 +32,6 @@ Your Daisy has blossomed into a full White Cross! ✨ Great job, little cuber! L
 
 ### ➕ _“Yay! You’ve grown your daisy into a sparkling white cross — your cube is blooming beautifully!”_
 
-**🔜 Next up: Solve the First Layer!**
-⬅️ [**Back to Step 1 - Make the Daisy**](01_daisy.md) | [**Next: Step 3 - Solve the First Layer**](03_first_layer.md) ➡️
-**🔝 Return to [Guide Overview](index.md)**
+**🔜 Next up: Solve the First Layer!**<br>
+⬅️ [**Back to Step 1 - Make the Daisy**](01_daisy.md) | [**Next: Step 3 - Solve the First Layer**](03_first_layer.md) ➡️<br>
+🔝 Return to [Guide Overview](index.md)
