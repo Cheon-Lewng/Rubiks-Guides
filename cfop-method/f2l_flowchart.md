@@ -7,10 +7,8 @@ config:
 flowchart TB
     Start(("Bring both pieces to the Up layer")) --> A{{"Are the pieces connected"}}
     A -- Yes --> B{{"Is the edge to the left or right of the corner?"}}
-    B -- Left --> T@{ img: "../assets/images/edge_left.png", w: 100, constraint: on, shape: rounded }
-    T --> D@{ label: "Separate the pieces using **U F' U F**", shape: rect }
-    B -- Right --> U@{ img: "../assets/images/edge_right.png", w: 100, constraint: on, shape: rounded }
-    U --> E@{ label: "Separate the pieces using **U' R U' R'**", shape: rect }
+    B -- Left --> D@{ label: "Separate the pieces using **U F' U F**", shape: rect }
+    B -- Right --> E@{ label: "Separate the pieces using **U' R U' R'**", shape: rect }
     D --> C{{"Is the white side of the corner facing up?"}}
     E --> C
     C -- Yes --> F@{ label: "Move the Up layer so the edge's side color matches its center", shape: rect }
