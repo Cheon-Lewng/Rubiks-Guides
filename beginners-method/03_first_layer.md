@@ -66,4 +66,4 @@ Once all four white corners are in place, the entire white face will be smiling 
 
 **🔜 Next up: Solving the Second Layer!**
 ⬅️ [**Back to Step 2 - Solve the White Cross**](02_cross.md) | [**Next: Step 4 - Solve the Second Layer**](04_second_layer.md) ➡️
-**🔝 Return to [Guide Overview](index.md)**
+**🔝 Return to [Guide Overview](index.md)**/
