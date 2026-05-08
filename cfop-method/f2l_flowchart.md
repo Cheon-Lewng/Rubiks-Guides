@@ -1,4 +1,5 @@
 ``` mermaid
+info
 ---
 config:
   layout: fixed
